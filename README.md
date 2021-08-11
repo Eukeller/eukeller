@@ -1,9 +1,7 @@
 ### Olá eu sou Keller༼ つ ◕_◕ ༽つ
 
 - 🐱‍🏍 Atualmente estou aprendendo python 
--  ✨ Instagram: @eukellerr
-- 😄 Pronomes: ela/dela
-
+- 😄 Pronomes: ela / dela
 
 <div>
   <a href="https://github.com/eukellerr">
