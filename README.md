@@ -1,6 +1,6 @@
-### Olá eu sou Keller (●'◡'●)
+### Olá eu sou Keller༼ つ ◕_◕ ༽つ
 
-- 🐱‍🏍 Atualmente estou aprendendo python ༼ つ ◕_◕ ༽つ
+- 🐱‍🏍 Atualmente estou aprendendo python 
 -  ✨ Instagram: @eukellerr
 - 😄 Pronomes: ela/dela
 
