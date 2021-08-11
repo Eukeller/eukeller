@@ -2,7 +2,7 @@
 
 - 🐱‍🏍 Atualmente estou aprendendo python ༼ つ ◕_◕ ༽つ
 -  ✨ Instagram: @eukellerr
-- 😄 Pronomes: ela/dela 
+- 😄 Pronomes: ela/dela
 
 <div>
   <a href="https://github.com/eukellerr">
@@ -14,7 +14,7 @@
 	 <img align="center" alt="eukeller-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img align="center" alt="eukeller-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="eukeller-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-	<img align="right" alt="eukeller-anima" src="https://media.giphy.com/media/DXQP4L1Je4VXXTw0gR/giphy.gif">
+	<img align="right" height="180em" alt="eukeller-anima" src="https://media.giphy.com/media/DXQP4L1Je4VXXTw0gR/giphy.gif">
 </div>
 
 ##
